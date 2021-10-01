@@ -1,0 +1,21 @@
+/*
+main css styles
+*/
+body {
+    background-color:  red;
+}
+.blue_heading {
+    font-size: 75px;
+    color:pink
+}
+h2 {
+    font-size: 60px;
+}
+#headingOrange{
+    font-size:50px;
+    color:rgb(52, 32, 88)
+}
+h4 {
+    font-size: 40px;
+    color:gray
+}
